@@ -7,9 +7,9 @@ scripture: Galater 5,1-6
 summary: "\"Immer mehr von dir\", das klingt nach Anspruch. Das klingt so, als ob ich doch messbar etwas leisten müsste, um Gott zu gefallen. Dabei ist es eigentlich ganz anders: \"Immer mehr von dir\" bedeutet, in die Freiheit, die Gott mir gibt hineinzuwachsen, beschenkt mit Glauben und zur Antwort in der Liebe getrieben."
 source: pfarrplaner
 source_id: "209@www.pfarrplaner.de"
-cover: cover.jpg
+cover: immer-mehr-von-dir-2.jpg
 cover_alt: "Titelbild zur Predigt \"Immer mehr von dir\"."
-audio: audio.mp3
+audio: immer-mehr-von-dir-2.mp3
 audio_duration: "33:12"
 legacy_id: 209
 events:
